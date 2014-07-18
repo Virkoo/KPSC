@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pazar u radnji</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Podesavanja</string>
+    <string name="SamoLabelPolje">Unesite bar kod proizvoda</string>
+    <string name="SendButton">Zahtevaj pazar</string>
+    <string name="labelaPazar">Trenutni pazar:</string>
+    <string name="ipAdresa">Unesite IP adresu servera</string>
+    <string name="labelaPort">Unesite broj porta</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
