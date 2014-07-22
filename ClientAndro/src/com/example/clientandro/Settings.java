@@ -19,7 +19,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 import android.os.Build;
 
-public class Settings extends ActionBarActivity {
+public class Settings extends Activity {
 	
 	public EditText etIp;
 	public EditText etPort;
